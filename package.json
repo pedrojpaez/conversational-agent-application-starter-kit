@@ -19,7 +19,7 @@
   },
   "scripts": {
     "start": "node server.js",
-    "postinstall": "gulp build",
+    "build": "gulp build",
     "test": "npm run jshint && (npm run codecov || true)",
     "jshint": "jshint --exclude ./node_modules/",
     "codecov": "istanbul cover ./node_modules/mocha/bin/_mocha && codecov"
