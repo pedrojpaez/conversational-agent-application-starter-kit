@@ -191,7 +191,7 @@ First, make sure that you followed steps 1 through 11 in the [previous section](
     ```sh
     $ gulp
     ```
-  6. Open [http://localhost:5000](http://localhost:5000) to see the running application.
+  6. Open [http://localhost:3000](http://localhost:3000) to see the running application.
 
 ## About the Conversational Agent pattern
 
